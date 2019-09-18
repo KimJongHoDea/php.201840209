@@ -2,4 +2,4 @@
 수업 내용 정리
 
 화면 캡쳐
-![bts](./images/bts.png)
+![bts](./images/캡처.png)
