@@ -2,5 +2,5 @@
 수업 내용 정리
 
 화면 캡쳐
-![bts](./images/bts.jpg)
-<img src="./images/bts.jpg"/>
+![bts](./images/bts.png)
+<img src="./images/bts.png" alt=""/>
