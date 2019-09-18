@@ -3,4 +3,3 @@
 
 화면 캡쳐
 ![bts](./images/bts.png)
-<img src="./images/bts.png" alt=""/>
