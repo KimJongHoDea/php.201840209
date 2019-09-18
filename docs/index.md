@@ -13,26 +13,24 @@ layout: default
   <div class="row">
     <div class="col-sm-3">
         <ul class="list-group">
-            <li class="list-group-item"><a href="./01">2019.08.28</a></li>
-            <li class="list-group-item"><a href="./02/lecture_02" >2019.09.04</a></li>
-            <li class="list-group-item"><a href="./03">2019.09.11</a></li>
-            <li class="list-group-item"><a href="./04">2019.09.18</a></li>
-            <li class="list-group-item">Vestibulum at eros</li>
+            <li class="list-group-item"><a href="./01">[2019.08.28]</a></li>
+            <li class="list-group-item"><a href="./02/lecture_02" >[2019.09.04]</a></li>
+            <li class="list-group-item"><a href="./03">[2019.09.11]</a></li>
+            <li class="list-group-item"><a href="./04">[2019.09.18]</a></li>
+            <li class="list-group-item">Slow Start</li>
           </ul>
     </div>
     <div class="col-sm-9">
      <h1> 리포트 PHP_ 201840209</h1>
-         2019.08.28
+         2019.08.28 :
         첫번째 수업 입니다. <a href="./01">[이동]</a><br>
-        ## 2019.09.04
-        첫번째 수업 입니다. <a href="./02/lecture_02" >[이동]</a>
-        ## 2019.09.11
-        첫번째 수업 입니다. <a href="./03">[이동]</a>
-        ## 2019.09.18
-        첫번째 수업 입니다. <a href="./04">[이동]</a>
-
-        * [1교시](04/01)
-
+         2019.09.04 :
+        첫번째 수업 입니다. <a href="./02/lecture_02" >[이동]</a><br>
+         2019.09.11 :
+        첫번째 수업 입니다. <a href="./03">[이동]</a><br>
+         2019.09.18 :
+        첫번째 수업 입니다. <a href="./04">[이동]</a><br>
+        <a href="./04/01">[1교시]</a><br>
     </div>
   </div>
 </div>
