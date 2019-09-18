@@ -4,24 +4,41 @@ layout: default
 
 <div class="jumbotron jumbotron-fluid">
   <div class="container">
-    <h1 class="display-4">Fluid jumbotron</h1>
-    <p class="lead">This is a modified jumbotron that occupies the entire horizontal space of its parent.</p>
+    <h1 class="display-4">대림대학교 PHP 리포트 사이트</h1>
+    <p class="lead">김종호 201840209 입니다.</p>
   </div>
 </div>
 
-# 리포트 PHP_ 201840209
+<div class="container">
+  <div class="row">
+    <div class="col-sm-3">
+        <ul class="list-group">
+            <li class="list-group-item"><a href="./01">2019.08.28</a></li>
+            <li class="list-group-item">Dapibus ac facilisis in</li>
+            <li class="list-group-item">Morbi leo risus</li>
+            <li class="list-group-item">Porta ac consectetur ac</li>
+            <li class="list-group-item">Vestibulum at eros</li>
+          </ul>
+    </div>
+    <div class="col-sm-9">
+     <h1> 리포트 PHP_ 201840209</h1>
+        ## 2019.08.28
+        첫번째 수업 입니다. [이동](./01)
 
-## 2019.08.28
-첫번째 수업 입니다. [이동](./01)
+        ## 2019.09.04
+        첫번째 수업 입니다. [이동](./02/lecture_02)
 
-## 2019.09.04
-첫번째 수업 입니다. [이동](./02/lecture_02)
+        ## 2019.09.11
+        첫번째 수업 입니다. [이동](03)
 
-## 2019.09.11
-첫번째 수업 입니다. [이동](03)
+        ## 2019.09.18
+        첫번째 수업 입니다. [이동](04)
 
-## 2019.09.18
-첫번째 수업 입니다. [이동](04)
+        * [1교시](04/01)
 
-* [1교시](04/01)
+    </div>
+  </div>
+</div>
+
+
 
