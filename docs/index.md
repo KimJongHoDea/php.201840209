@@ -30,8 +30,7 @@ layout: default
         첫번째 수업 입니다. <a href="./03">[이동]</a><br><br>
          2019.09.18 :
         첫번째 수업 입니다. <a href="./04">[이동]</a><br><br>
-        
-    </div>
+        </div>
   </div>
 </div>
 
