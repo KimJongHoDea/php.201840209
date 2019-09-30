@@ -17,20 +17,24 @@ layout: default
             <li class="list-group-item"><a href="./02/lecture_02" >[2019.09.04]</a></li>
             <li class="list-group-item"><a href="./03">[2019.09.11]</a></li>
             <li class="list-group-item"><a href="./04">[2019.09.18]</a></li>
+            <li class="list-group-item"><a href="./05">[2019.09.25]</a></li>
             <li class="list-group-item">Slow Start</li>
           </ul>
     </div>
     <div class="col-sm-9">
      <h1> 리포트 PHP_ 201840209</h1>
          2019.08.28 :
-        첫번째 수업 입니다. <a href="./01">[이동]</a><br><br>
+        첫번째 수업 입니다. <a href="./01">[이동]</a><br>
          2019.09.04 :
-        두번째 수업 입니다. <a href="./02/lecture_02" >[이동]</a><br><br>
+        두번째 수업 입니다. <a href="./02/lecture_02" >[이동]</a><br>
          2019.09.11 :
-        새번째 수업 입니다. <a href="./03">[이동]</a><br><br>
+        세번째 수업 입니다. <a href="./03">[이동]</a><br>
          2019.09.18 :
-        네번째 수업 입니다. <a href="./04">[이동]</a><br><br>
-        </div>
+        네번째 수업 입니다. <a href="./04">[이동]</a><br>
+         2019.09.25
+        다섯번째 수업 입니다. <a href="./05">[이동]</a><br>
+        
+    </div>
   </div>
 </div>
 
